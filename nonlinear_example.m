@@ -111,4 +111,4 @@ xlabel('x','FontSize',13)
 
 
 %% Save the produced plot as output
-saveas(gcf,'../results/Figure3.png')
+saveas(gcf,'./results/Figure3.png')
