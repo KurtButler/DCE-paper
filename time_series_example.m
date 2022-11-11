@@ -68,4 +68,4 @@ disp('Associated results for Figure 4: ')
 fprintf('Slope of the estimated DCE vs the signal z(t) line: %0.3f\n',LINEARCOEFF)
 
 %% Save the produced plot as output
-saveas(gcf,'../results/Figure4.png')
+saveas(gcf,'./results/Figure4.png')
