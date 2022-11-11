@@ -52,4 +52,4 @@ fprintf('If y = ax + bz + eps, then a = %0.2f.\n',a2)
 
 
 %% Save the produced plot as output
-saveas(gcf,'../results/Figure1.png')
+saveas(gcf,'./results/Figure1.png')
