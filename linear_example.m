@@ -141,5 +141,5 @@ colororder(COLORS)
 
 
 %% Save the produced plot as output
-saveas(gcf,'../results/Figure2.png')
+saveas(gcf,'./results/Figure2.png')
 
