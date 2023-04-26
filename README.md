@@ -1,4 +1,4 @@
-# Using Gaussian Process Regression to Measure the Strength of Causation
+# A Differential Measure of the Strength of Causation
 In this repo, we provide code to reproduce the figures from our paper "[A Differential Measure of the Strength of Causation](https://ieeexplore.ieee.org/abstract/document/9924562)," published to IEEE Signal Processing Letters. 
 
 > **Abstract:** The ability to quantify the strength of an interaction between random variables is important in many applications such as medicine and environmental science. We present the problem of measuring the strength of a causal interaction, starting from the linear perspective and generalizing to a nonlinear measure of causal influence, using a differential calculus approach. The proposed measure of causal strength is interpretable and may be estimated efficiently using Gaussian process regression. We validate our estimation approach on several synthesized data sets, considering both static variables and time series.
