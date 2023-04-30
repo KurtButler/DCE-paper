@@ -14,7 +14,7 @@ This code creates four figures when executed, corresponding to figures from the 
 To generate all figures (as .png files), you just need to run `main.m`. Also all the subfiles can be run independently.
 
 We wrote the code with Matlab 2022a.
-We did not optimize the code for efficiency; However, the code takes roughly 30 seconds to generate all of the figures. 
+The code takes roughly 30 seconds to generate all of the figures. 
 
 ## Citation
 If you use this project, please cite:
