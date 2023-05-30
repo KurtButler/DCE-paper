@@ -31,7 +31,7 @@ If you use this project, please cite:
 ## Code
 You can download the code using git:
 ```
-git clone https://github.com/newyorkfishmarket/DCE-paper.git
+git clone https://github.com/KurtButler/DCE-paper.git
 ```
 This project is also available as a capsule on [Code Ocean](https://codeocean.com/capsule/5974235/tree/v1):
 ```
