@@ -16,6 +16,17 @@ To generate all figures (as .png files), you just need to run `main.m`. Also all
 We wrote the code with Matlab 2022a.
 The code takes roughly 30 seconds to generate all of the figures. 
 
+## Download
+You can download the code using git:
+```
+git clone https://github.com/KurtButler/DCE-paper.git
+```
+This project is also available as a capsule on [Code Ocean](https://codeocean.com/capsule/5974235/tree/v1):
+```
+git clone https://git.codeocean.com/capsule-0604411.git
+```
+
+
 ## Citation
 If you use this project, please cite:
 ```
@@ -27,13 +38,4 @@ If you use this project, please cite:
   publisher={IEEE},
   url={https://ieeexplore.ieee.org/abstract/document/9924562}
 }
-```
-## Code
-You can download the code using git:
-```
-git clone https://github.com/KurtButler/DCE-paper.git
-```
-This project is also available as a capsule on [Code Ocean](https://codeocean.com/capsule/5974235/tree/v1):
-```
-git clone https://git.codeocean.com/capsule-0604411.git
 ```
